@@ -1,6 +1,6 @@
 # CSGN_model_for_nmi
-This is a repository for SEN model.
-Detailed description is prepared in `Cap_Models` file.
+This is a repository for CSGN model.
+Detailed description please checked in our manuscript.
 
 ## Description
 This is a deep learning model for multi-atom cluster representation, complex spectrum generation, and material design, which is based on the cluster encoder and spectrum generator blocks.
