@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10295223.svg)](https://doi.org/10.5281/zenodo.10295223)
-# CSGN_model_for_nmi
+# CSGN_model_for_review
 This is a repository for CSGN model.
 Detailed description please checked in our manuscript.
 
